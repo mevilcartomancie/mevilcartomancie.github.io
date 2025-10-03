@@ -42,4 +42,6 @@ markup:
           inline:
           - - \(
             - \)
-
+caches:
+  images:
+    dir: :cacheDir/images
