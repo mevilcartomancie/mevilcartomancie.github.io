@@ -18,6 +18,7 @@ nav {
     font-family:sans-serif;
     font-size:1rem;
     width:30rem;
+    max-width: 100%;
     margin:0 auto;
     line-height:2;
 }
@@ -53,6 +54,9 @@ header img {
   .side {
     margin-top:3rem;
   }
+  h1, h2 {
+    font-size:3rem;
+  }
 }
 
 :root {
@@ -69,6 +73,7 @@ header img {
     --gap: 8rem;
     --template-columns: 1fr 2fr;
   }
+
 
   
   main {
@@ -125,7 +130,9 @@ a {
 a:hover {
   text-decoration: underline;
 }
-.menu { padding: 0; }
+.menu { 
+  padding: 0;
+}
 .menu li { display: inline-block; }
 .article-meta, .menu a {
   text-decoration: none;
