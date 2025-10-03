@@ -7,12 +7,9 @@
   font-family: "Libre Caslon";
   src: url("/fonts/LibreCaslonText-Regular.ttf") format("truetype");
 }
-@font-face {
-  font-family: "Lora";
-  src: url("/fonts/Lora-Regular.ttf") format("truetype");
-}
-
 body {
+  margin: auto;
+  padding: 1em;
   font-family: "Crimson Text", serif;
   font-size:22px;
   line-height:1.4;
@@ -40,8 +37,8 @@ h1, h2 {
   margin:1.5rem 0 2.5rem;
   line-height: 1.1;
     font-weight:normal;
-    font-size:3.5rem;
     font-family:"Dahlia", sans-serif;
+    font-size:clamp(2rem, 3.5rem, 4rem);
 }
 header {
     text-align:center;
@@ -52,28 +49,51 @@ header img {
     height:5.5rem;
 }
 
-  :root {
-    --main-column:1;
-    --side-column:2;
-    --template-columns: 2fr 1fr;
-    --gap: 4rem;
+@media (max-width: 1023px) {
+  .side {
+    margin-top:3rem;
   }
-  
+}
+
+:root {
+  --main-column:1;
+  --side-column:2;
+  --template-columns: 2fr 1fr;
+  --gap: 4rem;
+}
+
+@media (min-width: 1024px) {
   .right {
     --main-column:2;
     --side-column:1;
     --gap: 8rem;
     --template-columns: 1fr 2fr;
   }
-  
-main {
-    max-width:70rem;
-    margin:0 auto;
-    display: grid;
-    gap:0 var(--gap);
-    grid-template-columns: var(--template-columns);
-}
 
+  
+  main {
+      max-width:70rem;
+      margin:0 auto;
+      display: grid;
+      gap:0 var(--gap);
+      grid-template-columns: var(--template-columns);
+  }
+  main * {
+    grid-column: var(--main-column);
+  }
+  main .side {
+    grid-row: 2 / span 20;
+  }
+
+  main * {
+    grid-column: var(--main-column);
+  }
+  
+  main .side {
+    grid-column: var(--side-column);
+  }
+  
+}
 p, ul, ol {
   margin-top:0;
 }
@@ -82,21 +102,9 @@ main p {
   max-width:35rem;
 }
 
-main .side {
-  grid-row: 2 / span 20;
-}
-
 .side img {
   max-width:100%;
   height:auto;
-}
-
-main * {
-  grid-column: var(--main-column);
-}
-
-main .side {
-  grid-column: var(--side-column);
 }
 
 .side figure {
@@ -117,3 +125,11 @@ a {
 a:hover {
   text-decoration: underline;
 }
+.menu { padding: 0; }
+.menu li { display: inline-block; }
+.article-meta, .menu a {
+  text-decoration: none;
+  color:black;
+}
+.menu, .article-meta, footer { text-align: center; }
+.title { font-size: 1.1em; }
