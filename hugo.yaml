@@ -1,4 +1,4 @@
-baseurl: "https://mevil.ch/"  # please update this to your actual URL
+baseurl: "https://mevil.ch/"  
 languageCode: "fr-ch"
 title: "Mevil Cartomancie"
 ignoreFiles: ["\\.Rjpg$", "\\.Rmd$", "\\.Rmarkdown$", "_cache$"]

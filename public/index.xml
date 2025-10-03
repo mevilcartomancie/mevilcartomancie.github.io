@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Le Nouveau tarot de Mevil on Mevil Cartomancie</title>
-    <link>https://mevil.ch/</link>
+    <link>http://localhost:56602/</link>
     <description>Recent content in Le Nouveau tarot de Mevil on Mevil Cartomancie</description>
     <generator>Hugo</generator>
     <language>fr-ch</language>
-    <atom:link href="https://mevil.ch/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:56602/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
