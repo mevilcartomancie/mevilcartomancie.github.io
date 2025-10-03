@@ -1,0 +1,8 @@
+{{ partial "header.html" . }}
+
+<main {{ if eq .Page.Path "/"}}class="right"{{end}}>
+{{ .Content }}
+</main>
+
+
+{{ partial "footer.html" . }}

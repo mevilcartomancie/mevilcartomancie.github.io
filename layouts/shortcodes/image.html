@@ -1,0 +1,19 @@
+{{- with .Get "path" }}
+  {{- with $r := $.Page.Resources.Get ($.Get "path") }}
+    {{- with $.Get "width" }}
+      {{- with $r.Process (printf "resize %dx wepb" ($.Get "width" )) }}
+      <figure>
+        {{- $alt := or ($.Get "alt") "" -}}
+        <a href="{{ $r }}" target="_blank"><img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="{{ $alt }}"></a>
+        <figcaption>{{- with $.Get "caption" }}<em>{{.}}</em>{{ end -}}{{ with $.Get "desc" }}<br>{{.}}{{end}}</figcaption>
+      </figure>
+      {{- end }}
+    {{- else }}
+      {{- errorf "The %q shortcode requires a 'width' argument: see %s" $.Name $.Position }}
+    {{- end }}
+  {{- else }}
+    {{- errorf "The %q shortcode was unable to find %s: see %s" $.Name ($.Get "path") $.Position }}
+  {{- end }}
+{{- else }}
+  {{- errorf "The %q shortcode requires a 'path' argument: see %s" .Name .Position }}
+{{- end -}}

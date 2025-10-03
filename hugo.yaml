@@ -1,0 +1,45 @@
+baseurl: "https://mevil.ch/"  # please update this to your actual URL
+languageCode: "fr-ch"
+title: "Mevil Cartomancie"
+ignoreFiles: ["\\.Rjpg$", "\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
+
+menu:
+  main:
+    - name: Qui est Mevil ?
+      url: "qui-est-mevil/"
+      weight: 1
+    - name: Le Nouveau tarot de Mevil
+      url: ""
+      weight: 2
+    - name: Événements
+      url: "evenements/"
+      weight: 3
+    - name: Rendez-vous & Achats
+      url: "rendez-vous-achats/"
+      weight: 4
+    - name: Contact 
+      url: "contact/"
+
+markup:
+  defaultMarkdownHandler: goldmark
+  highlight:
+    codeFences: false
+  goldmark:
+    renderHooks:
+      image:
+        enableDefault: true
+    renderer:
+      unsafe: true
+    extensions:
+      passthrough:
+        enable: true
+        delimiters:
+          block:
+          - - \[
+            - \]
+          - - $$
+            - $$
+          inline:
+          - - \(
+            - \)
+
