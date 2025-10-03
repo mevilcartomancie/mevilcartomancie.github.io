@@ -1,32 +1,34 @@
 ---
 title: Événements
 ---
-# Événements à venir
+# Lectures de tarot
 
-Consultation avec tirage de cartes sur rendez-vous à Lausanne les vendredis 02 et 09.05.2025 de 13 à 17 heures : 
+Lecture de tarot à domicile (région Lausanne/Pully/Lutry)
 
-- TINFAQ* (en mixité choisie sans homme cis hétéro)
-- Prix à choix entre 50.- et 80.- (60 minutes)
-- d’infos et prise de rendez-vous via email ou instagram
+- durée : 60 minutes
+- dès 120.- Chf, déplacement compris
 
-Consultation avec tirage de cartes sur rendez-vous à Lausanne les vendredis 02 et 09.05.2025 de 13 à 17 heures :
+Lecture de tarot à La Niche (Lausanne)
+les deux premiers vendredis de chaque mois de 13 à 17 heures :
 
-- TINFAQ* (en mixité choisie sans homme cis hétéro)
-- Prix à choix entre 50.- et 80.- (60 minutes)
-- d’infos et prise de rendez-vous via email ou instagram
+- pour personnes TINFAQ* (en mixité choisie sans homme cis hétéro)
+- Prix à choix entre 60.- et 80.- Chf (60 minutes)
 
-Soins énergétiques le vendredi 09.05.2025 à Lausanne de 13 à 17h.
+Atelier de cartomancie à La Niche (Lausanne)
+le deuxième vendredi de chaque mois de 18.15 à 20.15h :
 
-## Magic D!ldo workshop avec Tethys Ceramics
+- Événement TINFA (en mixité choisie sans homme cis), max. 5 personnes
+- Prix libre dès 10.- Chf
 
-Dans un espace de douceur créatif, fabrication d’un objet en céramique pour usage dans l’intimité ou célébration des corps et sexualités.
+Soins énergétiques les vendredis après-midi à Lausanne
 
-À Lausanne, La Niche, événement sans mec cis hetero :
+- Pratique du toucher thérapeutique et canalisation de soin
+- travail spécifique possible sur le ventre
+- Prix libre ou troc bienvenu <3
 
-- le jeudi 22 mai de 17 à 20h
-- ou le vendredi 23 mai de 15 à 18h
-- ou le samedi 24 mai de 9 à 12h
-- \+ d’infos et inscriptions par courriel à email
+## Événements
+
+Rien de prévu pour le moment… si vous voulez une animation chouette à votre soirée d’anniv’, si vous organisez un événement où il y a un coin tranquille pour tirer des cartes, si vous tenez un lieu dans lequel Mevil aurait sa place le temps d’un aprèm / une soirée : contactez-moi ! 
 
 {{< side >}}
   {{< image path=mevil-event2.jpg width=600 caption="The Forest Fair, Selim El Madani, 2023" desc="Mevil tient son stand: découverte des cartes et vente du jeu de tarot." >}}
