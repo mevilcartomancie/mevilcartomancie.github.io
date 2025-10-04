@@ -4,7 +4,7 @@ title: Contact
 # Contact
 
 <script>window.onload=function(){document.getElementById("mail").innerHTML = 'mevil' + '.' + 'cartomancie'+ '@' + 'proton' + '.' +'me';}</script>
-Mail : <span id="mail">obfuscated</span>
+Mail : <span id="mail">...</span>
 
 Instagram : [@melimmensamour](https://www.instagram.com/melimmensamour/)
 
