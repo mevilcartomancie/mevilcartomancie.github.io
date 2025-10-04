@@ -1,5 +1,5 @@
 ---
-site-title: Rendez-vous & Achats
+title: Rendez-vous & Achats
 ---
 # Achats
 
