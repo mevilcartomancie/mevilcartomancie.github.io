@@ -5,7 +5,7 @@ title: Rendez-vous & Achats
 
 *Merci de passer commande par [courriel](/contact) ou via [Instagram](https://www.instagram.com/melimmensamour) <3*
 
-**Nouveau tarot de Mevil, 78 cartes + livret – Prix de lancement (jusqu'au 15.09.26) CHF 99.-**
+**Nouveau tarot de Mevil, 78 cartes + livret – Prix de lancement CHF 99.- (jusqu'au 15.09.2026)**
 
 A pré-commander [en ligne](https://framaforms.org/pre-commande-le-nouveau-tarot-de-mevil-1785876691), retrait et livraison dès octobre 2026.
  
@@ -21,15 +21,15 @@ Fabrication maison à base d’huile d’amande douce + macérat de plantes cult
 
 # Prendre rendez-vous
 
-*Contacte-moi à [mail](/contact) ou sur [Instagram](https://www.instagram.com/melimmensamour) pour fixer un rendez-vous. Nous pourrons discuter ensemble de ce dont tu as besoin. A bientôt !*
+*Contacte-moi à [mail](/contact) ou sur [Instagram](https://www.instagram.com/melimmensamour) pour fixer un rendez-vous (dans la région lausannoise ou en ligne). Nous pourrons discuter ensemble de ce dont tu as besoin. A bientôt !*
 
-**Petit tirage thématique (environ 15 minutes)**
+**Petit tirage thématique (environ 15 minutes, envoi possible par Whatsapp) – prix libre dès 5.- CHF**
 
 Une décision difficile à prendre ? De l’hésitation face à un nouvel engagement ? Un besoin de clarté sur un aspect particulier (relation, travail, lieu de vie, processus créatif,...) ? Simplement envie de recevoir un message de tes guides ? 
 
-**Grand tirage Aspects Vie (45 à 60 minutes) – CHF 50.- à 80.-**
+**Grand tirage Aspects Vie (45 à 60 minutes) – CHF 60.- à 90.-**
 
-Ce tirage permet de se pencher sur ton état présent et à venir sous différents aspects de l’existence (tête/coeur/ventre/pieds). Les cartes délivrent des clés qui permettent à la consultantex de passer aux prochaines étapes de son cheminement. Support de réflexion et messager des guides, le grand tirage est conseillé environ une fois par.
+Ce tirage permet de se pencher sur ton état présent et à venir sous différents aspects de l’existence (tête/coeur/ventre/pieds). Les cartes délivrent des clés qui permettent à la consultantex de passer aux prochaines étapes de son cheminement. Support de réflexion et messager des guides, le grand tirage est conseillé une fois par saison.
 
 **Animation événement  (2 à 5 heures) – prix libre par lecture payé par les invitéexs ou forfait horaire pris en charge par l’organisateurice**
 
