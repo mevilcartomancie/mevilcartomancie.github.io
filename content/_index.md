@@ -3,7 +3,7 @@ title: Le Nouveau tarot de Mevil
 ---
 # Le Nouveau tarot de Mevil
 
-Basé sur la même structure que l’Ancien tarot de Marseille, le Nouveau tarot de Mevil comporte 22 arcanes majeurs. Les cartes forment également une structure cyclique de 0 à 21. Certaines d’entres elles résonnent avec le jeu initial dans leur sens ou leur message (notamment les arcanes 0, XIII et XXI), tandis que les autres délivrent d’autres principes, imaginaires et notions.
+Basé sur la même structure que l’Ancien tarot de Marseille, le Nouveau tarot de Mevil comporte 22 arcanes majeurs et 56 arcanes mineurs. Les cartes forment également une structure cyclique de 0 à 21 pour les majeurs, et de quatre familles de 14 cartes pour les mineurs. Certaines d’entres elles résonnent avec le jeu initial dans leur sens ou leur message (notamment les arcanes 0, XIII et XXI), tandis que les autres délivrent d’autres principes, imaginaires et notions. Les quatre familles (terre, feu, eau, air) correspondent respectivement aux quatre couleurs classiques (deniers, bâtons, coupes, épées). 
 
 C’est par la perception des expériences de vie et des témoignages d’existence que ces cartes sont nées et ont été créées. Les représentations dévoilent à chaque tirage de nouvelles dimensions et interprétations, et c’est en cela que le tarot reste vivant.
 
