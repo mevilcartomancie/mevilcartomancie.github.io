@@ -1,5 +1,5 @@
 baseurl: "https://mevil.ch/"  
-languageCode: "fr-ch"
+locale: "fr-ch"
 title: "Mevil Cartomancie"
 ignoreFiles: ["\\.Rjpg$", "\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
 
@@ -27,7 +27,7 @@ markup:
   goldmark:
     renderHooks:
       image:
-        enableDefault: true
+        useEmbedded: fallback
     renderer:
       unsafe: true
     extensions:
