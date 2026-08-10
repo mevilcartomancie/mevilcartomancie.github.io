@@ -1,91 +1,103 @@
 @font-face {
   font-family: "Dahlia";
   src: url("/fonts/Dahlia-bold.woff2") format("woff2"),
-  url("/fonts/Dahlia-bold.woff") format("woff");
+    url("/fonts/Dahlia-bold.woff") format("woff");
 }
+
 @font-face {
   font-family: "Libre Caslon";
   src: url("/fonts/LibreCaslonText-Regular.ttf") format("truetype");
 }
+
 body {
   margin: auto;
   padding: 1em;
   font-family: "Crimson Text", serif;
-  font-size:22px;
-  line-height:1.4;
+  font-size: 22px;
+  line-height: 1.4;
 }
+
 nav {
-    font-family:sans-serif;
-    font-size:1rem;
-    width:30rem;
-    max-width: 100%;
-    margin:0 auto;
-    line-height:2;
+  font-family: sans-serif;
+  font-size: 1rem;
+  width: 30rem;
+  max-width: 100%;
+  margin: 0 auto;
+  line-height: 2;
 }
+
 nav a {
-    margin-right:18px;
-    padding-bottom:3px;
+  margin-right: 18px;
+  padding-bottom: 3px;
 }
+
 nav a:hover {
-    text-decoration: none;
-    border-bottom:1px #000 solid;
+  text-decoration: none;
+  border-bottom: 1px #000 solid;
 }
+
 nav a.active {
-    border-bottom:1px #000 solid;
+  border-bottom: 1px #000 solid;
 }
-    
-h1, h2 {
-  margin:1.5rem 0 2.5rem;
+
+h1,
+h2 {
+  margin: 1.5rem 0 2.5rem;
   line-height: 1.1;
-    font-weight:normal;
-    font-family:"Dahlia", sans-serif;
-    font-size:clamp(2rem, 3.5rem, 4rem);
+  font-weight: normal;
+  font-family: "Dahlia", sans-serif;
+  font-size: clamp(2rem, 3.5rem, 4rem);
 }
+
 header {
-    text-align:center;
-    margin-bottom:1rem;
+  text-align: center;
+  margin-bottom: 1rem;
 }
 
 header img {
-    height:5.5rem;
+  height: 5.5rem;
 }
 
 @media (max-width: 1023px) {
   .side {
-    margin-top:3rem;
+    margin-top: 3rem;
   }
-  h1, h2 {
-    font-size:3rem;
+
+  h1,
+  h2 {
+    font-size: 3rem;
   }
 }
 
 :root {
-  --main-column:1;
-  --side-column:2;
+  --main-column: 1;
+  --side-column: 2;
   --template-columns: 2fr 1fr;
   --gap: 4rem;
 }
 
 @media (min-width: 1024px) {
   .right {
-    --main-column:2;
-    --side-column:1;
+    --main-column: 2;
+    --side-column: 1;
     --gap: 8rem;
     --template-columns: 1fr 2fr;
   }
 
 
-  
+
   main {
-      max-width:70rem;
-      margin:0 auto;
-      display: grid;
-      gap:0 var(--gap);
-      grid-template-columns: var(--template-columns);
+    max-width: 70rem;
+    margin: 0 auto;
+    display: grid;
+    gap: 0 var(--gap);
+    grid-template-columns: var(--template-columns);
   }
+
   main * {
     grid-column: var(--main-column);
   }
+
   main .side {
     grid-row: 2 / span 20;
   }
@@ -93,50 +105,68 @@ header img {
   main * {
     grid-column: var(--main-column);
   }
-  
+
   main .side {
     grid-column: var(--side-column);
   }
-  
+
 }
-p, ul, ol {
-  margin-top:0;
+
+p,
+ul,
+ol {
+  margin-top: 0;
 }
 
 main p {
-  max-width:35rem;
+  max-width: 35rem;
 }
 
 .side img {
-  max-width:100%;
-  height:auto;
+  max-width: 100%;
+  height: auto;
 }
 
 .side figure {
-  margin-bottom:6rem;
+  margin-bottom: 6rem;
 }
 
 .side figcaption {
   text-align: center;
-  font-size:.95rem;
-  margin-top:-3px;
+  font-size: .95rem;
+  margin-top: -3px;
 }
 
 a {
-  color:red;
-  text-decoration: none;;
+  color: red;
+  text-decoration: none;
+  ;
 }
 
 a:hover {
   text-decoration: underline;
 }
-.menu { 
+
+.menu {
   padding: 0;
 }
-.menu li { display: inline-block; }
-.article-meta, .menu a {
-  text-decoration: none;
-  color:black;
+
+.menu li {
+  display: inline-block;
 }
-.menu, .article-meta, footer { text-align: center; }
-.title { font-size: 1.1em; }
+
+.article-meta,
+.menu a {
+  text-decoration: none;
+  color: black;
+}
+
+.menu,
+.article-meta,
+footer {
+  text-align: center;
+}
+
+.title {
+  font-size: 1.1em;
+}
