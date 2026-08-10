@@ -12,6 +12,6 @@ Un ouvrage accompagne le jeu et donne des pistes de messages, d’interprétatio
 Le jeu est disponible à la vente (envoi postal), plus d’infos sous [Rendez-vous et Achats](/rendez-vous-achats)
 
 {{< side >}}
-  {{< image path=xiii-lepardon_r.jpg width=600 caption="Arcane majeur XII – Le Par Don" alt="Arcane majeur XII - Le Par Don" >}}
+  {{< image path=xiii-lepardon_r.jpg width=600 caption="Arcane majeur XIII – Le Par Don" alt="Arcane majeur XIII - Le Par Don" >}}
   {{< image path=mineur-11.jpg width=600 caption="Arcane mineur 11" alt="Arcane mineur 11" >}}
 {{< /side >}}
