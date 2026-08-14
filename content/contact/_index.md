@@ -6,7 +6,7 @@ title: Contact
 <script>window.onload=function(){document.getElementById("mail").innerHTML = 'mevil' + '.' + 'cartomancie'+ '@' + 'proton' + '.' +'me';}</script>
 Mail : <span id="mail">...</span>
 
-Instagram : [@melimmensamour](https://www.instagram.com/melimmensamour/)
+Instagram : [@mevil.carto](https://www.instagram.com/mevil.carto)
 
 TikTok : [@mevil.cartomancie](https://www.tiktok.com/@mevil.cartomancie)
 
