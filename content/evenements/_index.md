@@ -32,7 +32,7 @@ Soins énergétiques à La Niche (Lausanne) les deux premiers vendredis de chaqu
 
 ## Événements
 
-Rien de prévu pour le moment ! Si vous voulez une animation chouette à votre soirée d’anniversaire ou mariage, ou si vous organisez un événement où il y a un coin tranquille pour tirer des cartes : contactez-moi !
+Si vous voulez une animation chouette à votre soirée d’anniversaire ou mariage, ou si vous organisez un événement où il y a un coin tranquille pour tirer des cartes : contactez-moi !
 Je suis également disponible pour donner des ateliers de cartomancie, de façon ponctuelle ou régulière, pour une ou plusieurs personnes, sur mesure et très sympa pour s’initier à la lecture de cartes (tout tarot et oracles) ou mieux comprendre le Nouveau tarot de Mevil.
 
 {{< side >}}
