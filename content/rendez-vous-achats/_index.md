@@ -5,9 +5,9 @@ title: Rendez-vous & Achats
 
 *Merci de passer commande par [courriel](/contact) ou via [Instagram](https://www.instagram.com/melimmensamour) <3*
 
-**Nouveau tarot de Mevil, 78 cartes + livret – Prix de lancement CHF 99.- (jusqu'au 15.09.2026)**
+**Nouveau tarot de Mevil, 78 cartes + livret – 111.- CHF + frais d'envoi **
 
-A pré-commander [en ligne](https://framaforms.org/pre-commande-le-nouveau-tarot-de-mevil-1785876691), retrait et livraison dès octobre 2026.
+Possibilité d'acheter une fourre magique cousue main pour 29.- CHF supplémentaires
 
 **Bon cadeau pour un tirage – dès 70.- Chf**
 
