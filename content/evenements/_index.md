@@ -1,6 +1,12 @@
 ---
 title: Événements
 ---
+# Exposition des oeuvres originales à la Maison Pyxis (Lausanne) du 9 au 15 novembre 2026
+
+Bienvenuexs à touxtes au 1er étage de la maison de la culture (Place de la Cathédrale 6), dans la salle côté lac. Mevil vous accueille tous les après-midi de 13 à 17 heures et sur rendez-vous. Vous pourrez y découvrir et acheter les oeuvres originales qui composent le Nouveau tarot de Mevil, ainsi que le jeu complet <3
+
+Ateliers de cartomancie pour les enfants le mercredi 11 de 14 à 15h et pour les ados et adultes le dimanche 15 de 11 à 12h. Gratuit et sur inscription à mevil.cartomancie@proton.me
+
 # Lectures de tarot
 
 Lecture de tarot à domicile (région Lausanne/Pully/Lutry)
